@@ -1,0 +1,83 @@
+
+/*About Me*/
+
+h2 {
+	text-align: center; 
+	color: #6b48a0; 
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+}
+p {
+	font-family: 'Amatic SC', cursive; 
+	font-size: 30px; 
+	color: #6b48a0;"
+}
+
+/*Connent with Me*/
+
+h3 {
+	text-align: left; 
+	color: #6b48a0; 
+	font-size: 30px;
+	font-family: 'Lobster', cursive;"
+}
+
+/*sidebar*/
+
+.img-link {
+	float: left;
+	margin-left: 23px;
+	width: 50px;
+	height: 50px;
+}
+/*footer*/
+
+#footer {
+	background-position: bottom;
+	background-color: #f2f4f7;
+	text-align: center;
+	margin-bottom: 0px;	
+}
+
+/* adds transparent around about me, sidebar, portfolio & contact page */
+.panel {
+	background-color: transparent;
+	border: transparent;
+}
+
+#portsidebar {
+	
+}
+
+/*adds boarder around GITHUB link */
+
+#git {
+	border: 5px solid #fff;
+}
+
+/* adds more text space to message box */
+
+#message {
+	height: 200px;
+	width: 500px;
+}
+
+/* Contacts Page */
+
+.panel-body-1 {
+	color: #6b48a0; 
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+
+}
+.submit {
+	background-color: transparent;
+}
+
+label {
+	padding: 10px;
+	width: 235px;
+	text-align: center;
+	background-color: #6b48a0;
+	color:#fff;
+}
